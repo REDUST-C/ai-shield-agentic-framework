@@ -1,4 +1,4 @@
-### AI-Shield Framework v5 final 🛡️
+### AI-Shield Framework v5 🛡️
 
 Select Language / Выберите язык / См. описание на языках:
 * [English Version (EN)](#english-version)
