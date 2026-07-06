@@ -1,10 +1,9 @@
 ### AI-Shield Framework v5 final 🛡️
 
 Select Language / Выберите язык / См. описание на языках:
-
-*   English Version (EN)
-*   Deutsche Version (DE)
-*   Русская версия (RU)
+* [English Version (EN)](#english-version)
+* [Deutsche Version (DE)](#deutsche-version)
+* [Русская версия (RU)](#русская-версия)
 
 * * *
 
